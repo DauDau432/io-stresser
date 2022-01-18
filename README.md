@@ -2,7 +2,7 @@
 
 mỗi trường thực hiện
 =======
-[Googleshell](https://shell.cloud.google.com/)
+[Google Shell](https://shell.cloud.google.com/)
 
 cách sử dụng
 =======
