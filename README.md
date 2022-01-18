@@ -16,5 +16,5 @@ node io-stresser.js
 cách sử dụng
 =======
 ```
-node io-stresser.js <URL> 5 proxy
+node io-stresser.js <URL> 10000 5 proxy
 ```
