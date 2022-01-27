@@ -6,6 +6,7 @@
 ### Cài đặt
 ```
 wget https://cdn.discordapp.com/attachments/912663711297183744/918331196008710254/io-stresser.js
+apt install npm -y
 npm install axios
 npm install request
 npm install fake-useragent
