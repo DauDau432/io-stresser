@@ -1,4 +1,7 @@
-# IO-STRESSER.JS
+
+<p align="center">
+<h1>IO-STRESSER.JS</h1>
+</p>
 
 ### Mỗi trường thực hiện
 [Google Shell](https://shell.cloud.google.com/)
