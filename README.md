@@ -3,7 +3,7 @@ IO-STRESSER.JS</p>
 
 
 ### Mỗi trường thực hiện
-[Google Shell](https://shell.cloud.google.com/)
+[Cloud Shell](https://shell.cloud.google.com/)
 
 ### Cài đặt
 Tải xuống io-stresser
