@@ -26,7 +26,7 @@ Cài đặt fake-useragent
 ```
 npm install fake-useragent
 ```
-Khởi động io-stresser.js
+Xem cách sử dụng io-stresser.js
 ```
 node io-stresser.js
 ```
