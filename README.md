@@ -11,8 +11,13 @@ Tải xuống io-stresser
 wget https://cdn.discordapp.com/attachments/912663711297183744/918331196008710254/io-stresser.js
 ```
 Cài đặt npm nếu cần
+Trên ubuntu 
 ```
 apt install npm -y
+```
+Trên centos
+```
+yum install npm 
 ```
 Cài đặt axios
 ```
